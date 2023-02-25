@@ -1,2 +1,2 @@
 # Hateful-Madness
- Projet jeu vidéo java - Alexis Damiens et Sacha Barbet
+ Projet jeu vidéo java - Alexis Damien et Sacha Barbet
